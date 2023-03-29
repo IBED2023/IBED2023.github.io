@@ -8,7 +8,7 @@ International Building Emission Dataset (IBED)
 
 a multi-regional dataset of global carbon emissions from building sector
 
-<div align=left><img  src="./image/IBED_logo.png"/> </div> 
+<div align=left> <img src="./image/IBED_logo.png"/> </div> 
 
 
 ## Building carbon emissions 
