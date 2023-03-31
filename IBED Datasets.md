@@ -10,7 +10,6 @@ a multi-regional dataset of global carbon emissions from building sector
 
 <div align=left><img  src="IBED_logo1.png" width=30%/> </div> 
 
-
 ## Carbon emissions of residential buildings 
 
 | Regions       | EU 27 & UK       | EU 27 & UK                         | EU 27 & UK                         |                 EU 27 & UK                 | North America    | North America                      | North America                      | North America                              |
@@ -58,9 +57,9 @@ a multi-regional dataset of global carbon emissions from building sector
 
 ## Data availability
 
-More information are available from the founder (ibed.lbnl@gmail.com) on reasonable request.
+More information are available from the founder (maminda@lbl.gov) on reasonable request.
 
-
+​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 
 
 
