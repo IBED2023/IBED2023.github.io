@@ -9,6 +9,19 @@ International Building Emission Dataset (IBED)
 a multi-regional dataset of global carbon emissions from building sector
 
 <div align=left><img  src="IBED_logo1.png" width=30%/> </div> 
+
+## About IBED                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+
+We are pleased to announce the release of a public version of our dataset in this round, which is accessible at [http://ibed.world/](http://ibed.world/). Our dataset is established based on the IEA database, which has clear distinctions between the end uses relevant to residential and commercial energy activities in its energy balance sheet.
+
+To ensure the reliability of our database, we used the [IEA dataset](https://www.iea.org/data-and-statistics) as the primary reference to compile comprehensive and trustworthy data tables for each carbon-emitting country. For major emitters such as [China](https://doi.org/10.1016/j.enconman.2019.111915), [the United States](https://www.sciencedirect.com/science/article/pii/S2542435119303575), and [India](https://doi.org/10.1016/j.apenergy.2019.01.065), we accounted for and calibrated the building energy consumption data and the corresponding carbon emissions data based on the baseline dataset. For other carbon-emitting countries, we collected, cleaned, and validated survey reports and statistical results from regional governments and research institutions, which were then integrated with the baseline dataset to build a unified and standardized database.
+
+<img src="About%20IBED.png" alt="About IBED" style="zoom:120%;" />
+
+
+
+
+
 ## Carbon emissions of residential building operations 
 
 | Regions                                                     | Name                                | Abbreviations | Unit            | 2000   | 2010   | 2020  |
@@ -105,7 +118,7 @@ a multi-regional dataset of global carbon emissions from building sector
 
 
 
-## Population size and average household size
+## Socio-economic indicators of residential buildings
 
 | Regions                                                     |          Name           | Abbreviations |          Unit          | 2000   | 2010   | 2020   |
 | ----------------------------------------------------------- | :---------------------: | :-----------: | :--------------------: | ------ | ------ | ------ |
@@ -130,11 +143,11 @@ a multi-regional dataset of global carbon emissions from building sector
 
 
 
-
-
 ## Data availability
 
-More information  (e.g., commercial building stocks and carbon emissions of commercial building operations) are available from the founder (maminda@lbl.gov) on reasonable request.
+For additional information, including **detailed energy activities of residential buildings' end uses, commercial building stocks, and energy and emissions of commercial buildings' end uses**, you can contact the project leader, Dr. Minda Ma, at maminda@lbl.gov. We will provide the requested information upon reasonable request.
+
+
 
 
 
@@ -142,7 +155,18 @@ More information  (e.g., commercial building stocks and carbon emissions of comm
 
 ArchTracking is an upcoming software program for tracking the nation-regional energy and emission impacts of building decarbonization measures.
 
-<img src="PyLMDI_FrameWork.png" alt="PyLMDI_FrameWork" style="zoom:80%;" />
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="PyLMDI_FrameWork.png">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">PyLMDI的研究流程和概念图</div>
+</center>
+
+
 
 **Source codes**
 
@@ -176,13 +200,7 @@ class PyLMDI():
 
 
 
-## About IBED                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 
-We are pleased to announce the release of a public version of our dataset in this round, which is accessible at [http://ibed.world/](http://ibed.world/). Our dataset is established based on the IEA database, which has clear distinctions between the end uses relevant to residential and commercial energy activities in its energy balance sheet.
-
-To ensure the reliability of our database, we used the [IEA dataset](https://www.iea.org/data-and-statistics) as the primary reference to compile comprehensive and trustworthy data tables for each carbon-emitting country. For major emitters such as [China](https://doi.org/10.1016/j.enconman.2019.111915), [the United States](https://www.sciencedirect.com/science/article/pii/S2542435119303575), and [India](https://doi.org/10.1016/j.apenergy.2019.01.065), we accounted for and calibrated the building energy consumption data and the corresponding carbon emissions data based on the baseline dataset. For other carbon-emitting countries, we collected, cleaned, and validated survey reports and statistical results from regional governments and research institutions, which were then integrated with the baseline dataset to build a unified and standardized database.
-
-<img src="About%20IBED.png" alt="About IBED" style="zoom:120%;" />
 
 
 
