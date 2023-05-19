@@ -149,8 +149,6 @@ For additional information, including **detailed energy activities of residentia
 
 
 
-
-
 ## ArchTracking
 
 ArchTracking is an upcoming software program for tracking the nation-regional energy and emission impacts of building decarbonization measures.
