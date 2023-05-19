@@ -155,6 +155,10 @@ For additional information, including **detailed energy activities of residentia
 
 ArchTracking is an upcoming software program for tracking the nation-regional energy and emission impacts of building decarbonization measures.
 
+
+
+## PyLMDI
+
 **Python-LMDI: a tool for index decomposition analysis of building carbon emissions**
 
 A timely analysis for carbon emission reduction in buildings is an effective global response to the crisis of climate change. The logarithmic mean Divisia index (LMDI) decomposition analysis approach has been extensively used to assess the carbon emission reduction potential of the buildings sector. In order to simplify the calculation process and to expand its application scope, a new open-source Python tool (PyLMDI) developed in this article is used to compute the results of LMDI decomposition analysis, including multiplicative and additive decomposition. Users can quickly obtain the decomposition result by initializing the input data through a simple class data structure. In addition, the carbon emissions from commercial buildings are used as a numerical example to demonstrate the function of PyLMDI. In summary, PyLMDI is a potential calculation tool for index decomposition analysis that can provide calculation guidance for carbon emission reduction in the buildings sector. The data and codes for the numerical example are also included.
