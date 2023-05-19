@@ -6,13 +6,13 @@
 
 International Building Emission Dataset (IBED)
 
-a multi-regional dataset of global carbon emissions from building sector
+Multi-Regional Dataset: Energy and Emissions of the Global Building Sector
 
 <div align=left><img  src="IBED_logo1.png" width=30%/> </div> 
 
 ## About IBED                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 
-We are pleased to announce the release of a public version of our dataset in this round, which is accessible at [http://ibed.world/](http://ibed.world/). Our dataset is established based on the IEA database, which has clear distinctions between the end uses relevant to residential and commercial energy activities in its energy balance sheet.
+We are pleased to announce the release of a public version of our dataset, which is accessible at [http://ibed.world/](http://ibed.world/). Our dataset is established based on the IEA database, which has clear distinctions between the end uses relevant to residential and commercial energy activities in its energy balance sheet.
 
 To ensure the reliability of our database, we used the [IEA dataset](https://www.iea.org/data-and-statistics) as the primary reference to compile comprehensive and trustworthy data tables for each carbon-emitting country. For major emitters such as [China](https://doi.org/10.1016/j.enconman.2019.111915), [the United States](https://www.sciencedirect.com/science/article/pii/S2542435119303575), and [India](https://doi.org/10.1016/j.apenergy.2019.01.065), we accounted for and calibrated the building energy consumption data and the corresponding carbon emissions data based on the baseline dataset. For other carbon-emitting countries, we collected, cleaned, and validated survey reports and statistical results from regional governments and research institutions, which were then integrated with the baseline dataset to build a unified and standardized database.
 
@@ -145,7 +145,7 @@ To ensure the reliability of our database, we used the [IEA dataset](https://www
 
 ## Data availability
 
-For additional information, including **detailed energy activities of residential buildings' end uses, commercial building stocks, and energy and emissions of commercial buildings' end uses**, you can contact the project leader, Dr. Minda Ma, at maminda@lbl.gov. We will provide the requested information upon reasonable request.
+For additional information, including **detailed energy activities of residential buildings' end uses, commercial building stocks, and energy and emissions of commercial buildings' end uses**, you can contact the project leader, [Dr. Minda Ma](https://buildings.lbl.gov/people/minda-ma), at maminda@lbl.gov. We will provide the requested information upon reasonable request.
 
 
 
@@ -155,6 +155,10 @@ For additional information, including **detailed energy activities of residentia
 
 ArchTracking is an upcoming software program for tracking the nation-regional energy and emission impacts of building decarbonization measures.
 
+**Python-LMDI: a tool for index decomposition analysis of building carbon emissions**
+
+A timely analysis for carbon emission reduction in buildings is an effective global response to the crisis of climate change. The logarithmic mean Divisia index (LMDI) decomposition analysis approach has been extensively used to assess the carbon emission reduction potential of the buildings sector. In order to simplify the calculation process and to expand its application scope, a new open-source Python tool (PyLMDI) developed in this article is used to compute the results of LMDI decomposition analysis, including multiplicative and additive decomposition. Users can quickly obtain the decomposition result by initializing the input data through a simple class data structure. In addition, the carbon emissions from commercial buildings are used as a numerical example to demonstrate the function of PyLMDI. In summary, PyLMDI is a potential calculation tool for index decomposition analysis that can provide calculation guidance for carbon emission reduction in the buildings sector. The data and codes for the numerical example are also included.
+
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
@@ -163,7 +167,7 @@ ArchTracking is an upcoming software program for tracking the nation-regional en
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">PyLMDI的研究流程和概念图</div>
+    padding: 2px;">Research flow chart and conceptual diagram illustrating the architecture of PyLMDI</div>
 </center>
 
 
