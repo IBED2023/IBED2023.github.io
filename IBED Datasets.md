@@ -8,9 +8,12 @@ International Building Emission Dataset (IBED)
 
 A multi-regional dataset aims to monitor energy trends, emissions mitigation, and building stock on a global scale.
 
-IBED is a project led by [Lawrence Berkeley National Laboratory](https://buildings.lbl.gov/) (LBNL, operated by UC Berkeley for U.S. DOE), [Tsinghua University](https://www.tsinghua.edu.cn/), and [Chongqing University](https://www.cqu.edu.cn/).
+IBED is a project led by [Lawrence Berkeley National Laboratory<img src='./image/logo-LBNL.png' style='width: 4em;'>](https://www.lbl.gov/) (LBNL, operated by UC Berkeley for U.S. DOE), [Tsinghua University<img src='./image/logo-THQ.png' style='width: 4em;'>](https://www.tsinghua.edu.cn), and [Chongqing University<img src='./image/logo_CQU.png' style='width: 4em;'>](https://www.cqu.edu.cn).
 
 <div align=left><img  src="IBED_logo1.png" width=30%/> </div> 
+
+
+
 ## About IBED                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 
 We are pleased to announce the release of a public version of our dataset, which is accessible at [http://ibed.world](http://ibed.world/). Our dataset is established based on the IEA database, which has clear distinctions between the end uses relevant to residential and commercial energy activities in its energy balance sheet.
