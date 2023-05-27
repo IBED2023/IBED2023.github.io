@@ -12,7 +12,6 @@ IBED is a project led by [Lawrence Berkeley National Laboratory<img src='./image
 
 <div align=left><img  src="IBED_logo1.png" width=30%/> </div> 
 
-
 ## About IBED                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 
 We are pleased to announce the release of a public version of our dataset, which is accessible at [http://ibed.world](http://ibed.world/). Our dataset is established based on the IEA database, which has clear distinctions between the end uses relevant to residential and commercial energy activities in its energy balance sheet.
@@ -241,7 +240,7 @@ class PyLMDI():
 
 
 
-
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5bhpcu9diem&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;crh1=ffffff&amp;sx=0" async="async"></script>
 
 
 
