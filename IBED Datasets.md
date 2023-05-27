@@ -240,7 +240,7 @@ class PyLMDI():
 
 
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5bhpcu9diem&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;crh1=ffffff&amp;sx=0" async="async"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=5km96zhvvj2&amp;m=0&amp;h=128&amp;c=ff0000&amp;r=0" async="async"></script>
 
 
 
