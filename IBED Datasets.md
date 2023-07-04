@@ -39,6 +39,10 @@ To ensure the reliability of our database, we used the [IEA dataset](https://www
 | China                                                       | Share  of residential space heating | $C_{RSH}$     | $\%$            | 43.0%  | 43.4%  | 36.1% |
 | China                                                       | Share  of residential space cooling | $C_{RSC}$     | $\%$            | 6.2%   | 6.1%   | 11.3% |
 | China                                                       | Share  of other end uses            | $C_{RA}$      | $\%$            | 50.9%  | 50.5%  | 52.5% |
+| India                                                       | Carbon emissions                    | $C$           | $\text{MtCO}_2$ | 157.5  | 248.2  | 375   |
+| India                                                       | Share of residential space  heating | $C_{RSH}$     | $\%$            | 0.0%   | 0.0%   | 0.0%  |
+| India                                                       | Share of residential space  cooling | $C_{RSC}$     | $\%$            | 22.5%  | 29.7%  | 36.4% |
+| India                                                       | Share of other end uses             | $C_{RA}$      | $\%$            | 77.5%  | 70.3%  | 63.6% |
 | Northeast Asia (Japan, Korea)                               | Carbon  emissions                   | $C$           | $\text{MtCO}_2$ | 239.9  | 285.5  | 281.6 |
 | Northeast Asia (Japan, Korea)                               | Share  of residential space heating | $C_{RSH}$     | $\%$            | 29.2%  | 29.6%  | 26.7% |
 | Northeast Asia (Japan, Korea)                               | Share  of residential space cooling | $C_{RSC}$     | $\%$            | 3.4%   | 4.0%   | 3.2%  |
@@ -60,6 +64,8 @@ To ensure the reliability of our database, we used the [IEA dataset](https://www
 
 
 
+
+
 ## Energy consumption of residential building operations 
 
 | Regions                                                     | Name                                | Abbreviations | Unit                     | 2000     | 2010     | 2020     |
@@ -76,6 +82,10 @@ To ensure the reliability of our database, we used the [IEA dataset](https://www
 | China                                                       | Share  of residential space heating | $E_{RSH}$     | $\%$                     | 50.4%    | 50.4%    | 44.3%    |
 | China                                                       | Share  of residential space cooling | $E_{RSC}$     | $\%$                     | 4.8%     | 4.8%     | 9.9%     |
 | China                                                       | Share  of other end uses            | $E_{RA}$      | $\%$                     | 44.8%    | 44.8%    | 45.8%    |
+| India                                                       | Energy consumption                  | $E$           | Peta joule $(\text{PJ})$ | 1142.2   | 1672.9   | 2598     |
+| India                                                       | Share of residential space  heating | $E_{RSH}$     | $\%$                     | 0.0%     | 0.0%     | 0.0%     |
+| India                                                       | Share of residential space  cooling | $E_{RSC}$     | $\%$                     | 9.0%     | 14.6%    | 22.0%    |
+| India                                                       | Share of other end uses             | $E_{RA}$      | $\%$                     | 91.0%    | 85.4%    | 78.0%    |
 | Northeast Asia (Japan, Korea)                               | Energy  consumption                 | $E$           | Peta joule $(\text{PJ})$ | 2766.1   | 2982.9   | 2829.8   |
 | Northeast Asia (Japan, Korea)                               | Share  of residential space heating | $E_{RSH}$     | $\%$                     | 34.8%    | 35.9%    | 33.6%    |
 | Northeast Asia (Japan, Korea)                               | Share  of residential space cooling | $E_{RSC}$     | $\%$                     | 2.3%     | 2.7%     | 2.2%     |
@@ -105,6 +115,8 @@ To ensure the reliability of our database, we used the [IEA dataset](https://www
 | South America (Brazil, Colombia, Argentina, Chile, Uruguay) | Average  household size | $p$           | persons per  household | 4.5    | 4      | 3.6    |
 | China                                                       | Population  size        | $P$           | Million persons        | 1262.6 | 1337.7 | 1411.1 |
 | China                                                       | Average  household size | $p$           | persons per  household | 3.4    | 3.1    | 2.6    |
+| India                                                       | Population size         | $P$           | Million persons        | 1012.6 | 1180.9 | 1347.1 |
+| India                                                       | Average household size  | $p$           | persons per household  | 5.4    | 5.1    | 4.8    |
 | Northeast Asia (Japan, Korea)                               | Population  size        | $P$           | Million persons        | 173.9  | 177.6  | 178.1  |
 | Northeast Asia (Japan, Korea)                               | Average  household size | $p$           | persons per  household | 2.8    | 2.6    | 2.4    |
 | Africa (South Africa, Morocco)                              | Population  size        | $P$           | Million persons        | 73.8   | 83.6   | 96.2   |
@@ -182,7 +194,6 @@ class PyLMDI():
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5vnbozco0jv&amp;m=0&amp;h=256&amp;c=ff0000&amp;r=0" async="async"></script>
-
 
 
 
