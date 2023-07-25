@@ -56,7 +56,7 @@ In 2023, some of IBED's noteworthy applications have been featured in internatio
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Source: https://doi.org/10.1016/j.adapen.2023.100145</div>
+    padding: 2px;">https://doi.org/10.1016/j.apenergy.2023.121164</div>
 </center>
 
 
