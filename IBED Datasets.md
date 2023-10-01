@@ -25,11 +25,12 @@ To ensure the reliability of our database, we used the [IEA dataset](https://www
 
 In 2023, some of IBED's noteworthy applications have been featured in international journals like *Advances in Applied Energy*, *Applied Energy*, and *Sustainable Cities and Society*.
 [1] Xiang X, Zhou N, Ma M\*, Feng W, Yan R. Global transition of operational carbon in residential buildings since the millennium. *Advances in Applied Energy* 2023;11:100145.
-[2] Yan R, Chen M, Xiang X, Feng W, Ma M\*. Heterogeneity or illusion? Track the carbon Kuznets curve of global residential building operations. *Applied Energy* 2023;347:121441.
-[3] Zhang S, Zhou N, Feng W, Ma M\*, Xiang X, You K. Pathway for decarbonizing residential building operations in the US and China beyond the mid-century. *Applied Energy* 2023;342:121164.
-[4] Chen L, Ma M\*, Xiang X. Decarbonizing or illusion? How carbon emissions of commercial building operations change worldwide. *Sustainable Cities and Society* 2023;96:104654.
-[5] Xiang X, Ma M\*, Ma X, Chen L, Cai W, Feng W, et al. Historical decarbonization of global commercial building operations in the 21st century. *Applied Energy* 2022;322:119401.
-[6] Zhang S, Ma M*, Xiang X, Cai W, Feng W, Ma Z. Potential to decarbonize the commercial building operation of the top two emitters by 2060. *Resources, Conservation and Recycling* 2022;185:106481.
+[2] Yan R, Ma M\*, Zhou N, Feng W, Xiang X, Mao C. Towards COP27: Decarbonization patterns of residential building in China and India. *Applied Energy* 2023;352:122003.
+[3] Yan R, Chen M, Xiang X, Feng W, Ma M\*. Heterogeneity or illusion? Track the carbon Kuznets curve of global residential building operations. *Applied Energy* 2023;347:121441.
+[4] Zhang S, Zhou N, Feng W, Ma M\*, Xiang X, You K. Pathway for decarbonizing residential building operations in the US and China beyond the mid-century. *Applied Energy* 2023;342:121164.
+[5] Chen L, Ma M\*, Xiang X. Decarbonizing or illusion? How carbon emissions of commercial building operations change worldwide. *Sustainable Cities and Society* 2023;96:104654.
+[6] Xiang X, Ma M\*, Ma X, Chen L, Cai W, Feng W, et al. Historical decarbonization of global commercial building operations in the 21st century. *Applied Energy* 2022;322:119401.
+[7] Zhang S, Ma M*, Xiang X, Cai W, Feng W, Ma Z. Potential to decarbonize the commercial building operation of the top two emitters by 2060. *Resources, Conservation and Recycling* 2022;185:106481.
 
 
 
@@ -56,10 +57,23 @@ In 2023, some of IBED's noteworthy applications have been featured in internatio
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Source: https://doi.org/10.1016/j.apenergy.2023.121164</div>
+    padding: 2px;">Source: https://doi.org/10.1016/j.apenergy.2023.122003</div>
 </center>
 
 
+
+
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="image\GA-4.png">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Source: https://doi.org/10.1016/j.adapen.2023.100145</div>
+</center>
 
 
 
