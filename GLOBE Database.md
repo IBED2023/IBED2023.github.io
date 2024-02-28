@@ -11,7 +11,7 @@ A multi-regional dataset aims to monitor energy trends, emissions mitigation, an
 GLOBE was initially proposed by [Dr. Minda Ma](https://buildings.lbl.gov/people/minda-ma) in 2021, and now it is a project led by [Lawrence Berkeley National Laboratory<img src='./image/logo-LBNL.png' style='width: 4em;'>](https://buildings.lbl.gov/)(LBNL, operated by UC Berkeley for U.S. DOE), [Tsinghua University<img src='./image/logo-THQ.png' style='width: 4em;'>](https://www.tsinghua.edu.cn), and [Chongqing University<img src='./image/logo_CQU.png' style='width: 4em;'>](https://www.cqu.edu.cn).
 
 <div align=left><img  src="GLOBE LOGO.png" width=30%/> </div> 
-Global Building Emissions (**GLOBE**) Database (https://globe.lbl.gov/ and  http://globe2060.org/, also known as the second generation of **IBED**: https://ibed.world/)
+Global Building Emissions (**GLOBE**) Database (http://globe2060.org and  https://globe.lbl.gov, also known as the second generation of **IBED**: https://ibed.world)
 
 
 
